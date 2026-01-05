@@ -1,0 +1,7 @@
+{
+  "name": "Kora Wallet",
+  "description": "A sleek, QR-based digital wallet for fast and secure wallet-to-wallet payments.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
